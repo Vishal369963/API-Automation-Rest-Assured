@@ -1,0 +1,112 @@
+[
+  {
+    "firstname": "John1",
+    "lastname": "Doe1",
+    "totalprice": 100,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-01-01",
+      "checkout": "2024-01-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "John2",
+    "lastname": "Doe2",
+    "totalprice": 150,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-02-01",
+      "checkout": "2024-02-15"
+    },
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "John3",
+    "lastname": "Doe3",
+    "totalprice": 200,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-03-01",
+      "checkout": "2024-03-10"
+    },
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "John4",
+    "lastname": "Doe4",
+    "totalprice": 250,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-04-01",
+      "checkout": "2024-04-15"
+    },
+    "additionalneeds": "WiFi"
+  },
+  {
+    "firstname": "John5",
+    "lastname": "Doe5",
+    "totalprice": 300,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-05-01",
+      "checkout": "2024-05-10"
+    },
+    "additionalneeds": "Parking"
+  },
+  {
+    "firstname": "John6",
+    "lastname": "Doe6",
+    "totalprice": 350,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-06-01",
+      "checkout": "2024-06-15"
+    },
+    "additionalneeds": "Gym"
+  },
+  {
+    "firstname": "John7",
+    "lastname": "Doe7",
+    "totalprice": 400,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-07-01",
+      "checkout": "2024-07-10"
+    },
+    "additionalneeds": "Spa"
+  },
+  {
+    "firstname": "John8",
+    "lastname": "Doe8",
+    "totalprice": 450,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-08-01",
+      "checkout": "2024-08-15"
+    },
+    "additionalneeds": "Room Service"
+  },
+  {
+    "firstname": "John9",
+    "lastname": "Doe9",
+    "totalprice": 500,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-09-01",
+      "checkout": "2024-09-10"
+    },
+    "additionalneeds": "Bar"
+  },
+  {
+    "firstname": "John10",
+    "lastname": "Doe10",
+    "totalprice": 550,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-10-01",
+      "checkout": "2024-10-15"
+    },
+    "additionalneeds": "Laundry"
+  }
+]
